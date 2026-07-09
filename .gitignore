@@ -6,3 +6,6 @@ venv/
 *.pyo
 *.pyd
 .DS_Store
+practice_notes.txt
+study_notes.txt
+expenses.csv
