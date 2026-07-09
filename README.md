@@ -29,6 +29,8 @@ The goal is to learn by writing small examples, checking what happens, and keepi
 - [loops_practice.py](exercises/loops_practice.py)
 - [functions_practice.py](exercises/functions_practice.py)
 - [files_practice.py](exercises/files_practice.py)
+- [oop_practice.py](exercises/oop_practice.py)
+- [intermediate_practice.py](exercises/intermediate_practice.py)
 - [word_counter.py](exercises/word_counter.py)
 
 ## Small projects
